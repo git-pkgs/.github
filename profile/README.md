@@ -3,6 +3,7 @@
 ### Libraries
 
 - [managers](https://github.com/git-pkgs/managers) - Go library wrapping package manager CLIs behind a common interface
-- [manifests](https://github.com/git-pkgs/manifests) - Parsers for package manifest files (package.json, Gemfile, Cargo.toml, etc.)
+- [manifests](https://github.com/git-pkgs/manifests) - Go library for parsing package manager manifest and lockfiles
+- [registries](https://github.com/git-pkgs/registries) - Go library for fetching package metadata from registry APIs
 - [vers](https://github.com/git-pkgs/vers) - Version range parsing and comparison per the VERS spec
 - [packageurl-go](https://github.com/git-pkgs/packageurl-go) - Go implementation of the package URL spec
