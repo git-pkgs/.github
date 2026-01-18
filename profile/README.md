@@ -5,4 +5,5 @@
 - [managers](https://github.com/git-pkgs/managers) - Go library wrapping package manager CLIs behind a common interface
 - [manifests](https://github.com/git-pkgs/manifests) - Go library for parsing package manager manifest and lockfiles
 - [registries](https://github.com/git-pkgs/registries) - Go library for fetching package metadata from registry APIs
+- [spdx](https://github.com/git-pkgs/spdx) - Go library for SPDX license expression parsing and normalization
 - [vers](https://github.com/git-pkgs/vers) - Version range parsing and comparison per the VERS spec
