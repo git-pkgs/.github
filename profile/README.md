@@ -6,4 +6,3 @@
 - [manifests](https://github.com/git-pkgs/manifests) - Go library for parsing package manager manifest and lockfiles
 - [registries](https://github.com/git-pkgs/registries) - Go library for fetching package metadata from registry APIs
 - [vers](https://github.com/git-pkgs/vers) - Version range parsing and comparison per the VERS spec
-- [packageurl-go](https://github.com/git-pkgs/packageurl-go) - Go implementation of the package URL spec
