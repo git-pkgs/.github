@@ -1,5 +1,20 @@
 [git-pkgs](https://github.com/git-pkgs/git-pkgs) tracks package dependencies across your repository's git history. It answers questions like "who added this dependency?", "when was it introduced?", and "how long were we exposed to this vulnerability?" Works with 35+ package managers.
 
+Install it with:
+
+```bash
+brew tap git-pkgs/git-pkgs
+brew install git-pkgs
+```
+
+Or download a binary from the [releases page](https://github.com/git-pkgs/git-pkgs/releases).
+
+Or build from source:
+
+```bash
+go install github.com/git-pkgs/git-pkgs@latest
+```
+
 ### Libraries
 
 - [managers](https://github.com/git-pkgs/managers) - Go library wrapping package manager CLIs behind a common interface
