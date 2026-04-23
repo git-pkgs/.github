@@ -20,7 +20,7 @@ go install github.com/git-pkgs/git-pkgs@latest
 - [archives](https://github.com/git-pkgs/archives) - Reading and browsing archive files in memory
 - [changelog](https://github.com/git-pkgs/changelog) - Parsing changelog files into structured entries
 - [enrichment](https://github.com/git-pkgs/enrichment) - Fetching package metadata from multiple sources
-- [forges](https://github.com/git-pkgs/forges) - Fetching repository metadata from git forges
+- [forge](https://github.com/git-pkgs/forge) - Fetching repository metadata from git forges
 - [gitignore](https://github.com/git-pkgs/gitignore) - Matching paths against gitignore rules
 - [managers](https://github.com/git-pkgs/managers) - Wrapping package manager CLIs behind a common interface
 - [manifests](https://github.com/git-pkgs/manifests) - Parsing package manager manifest and lockfiles
