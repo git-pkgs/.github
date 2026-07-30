@@ -4,6 +4,7 @@ Install it with:
 
 ```bash
 brew tap git-pkgs/git-pkgs
+brew trust --tap git-pkgs/git-pkgs
 brew install git-pkgs
 ```
 
