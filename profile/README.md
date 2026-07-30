@@ -4,6 +4,7 @@ Install it with:
 
 ```bash
 brew tap git-pkgs/git-pkgs
+brew trust --tap git-pkgs/git-pkgs
 brew install git-pkgs
 ```
 
@@ -19,6 +20,7 @@ go install github.com/git-pkgs/git-pkgs@latest
 
 - [brief](https://github.com/git-pkgs/brief) - Detect a project's toolchain, configuration, and conventions
 - [capcheck](https://github.com/git-pkgs/capcheck) - Fail CI when Go code or dependencies gain new privileged operations
+- [licenses](https://github.com/git-pkgs/licenses) - Scan repositories for license text using ScanCode's rule corpus
 - [outline](https://github.com/git-pkgs/outline) - Reduce a source tree to a structural skeleton for LLM context
 - [pin](https://github.com/git-pkgs/pin) - Vendor browser assets without npm
 - [proxy](https://github.com/git-pkgs/proxy) - Lightweight caching proxy for package registries
