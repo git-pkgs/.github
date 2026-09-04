@@ -29,7 +29,7 @@ go install github.com/git-pkgs/git-pkgs@latest
 ### Utilities
 
 - [actions](https://github.com/git-pkgs/actions) - Reusable GitHub Actions for git-pkgs dependency analysis
-- [skills](https://github.com/git-pkgs/skills) - Claude Code skills plugin for git-pkgs and brief
+- [skills](https://github.com/git-pkgs/skills) - Claude Code skills plugin for git-pkgs, brief, forge, pin, and capcheck
 
 ### Modules
 
