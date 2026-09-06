@@ -21,6 +21,7 @@ go install github.com/git-pkgs/git-pkgs@latest
 - [distill](https://github.com/git-pkgs/distill) - Train and run repository classifiers from code-derived signals
 - [downstream](https://github.com/git-pkgs/downstream) - Test library changes against projects that depend on them
 - [forge](https://github.com/git-pkgs/forge) - Work with GitHub, GitLab, Gitea, Forgejo, Bitbucket, Gerrit, and Tangled through one CLI
+- [git-pkgs](https://github.com/git-pkgs/git-pkgs) - Track package dependencies across a repository's git history
 - [licenses](https://github.com/git-pkgs/licenses) - Scan repositories for license text using ScanCode's rule corpus
 - [pin](https://github.com/git-pkgs/pin) - Vendor browser assets without npm
 - [proxy](https://github.com/git-pkgs/proxy) - Lightweight caching proxy for package registries
@@ -38,7 +39,6 @@ go install github.com/git-pkgs/git-pkgs@latest
 - [purl](https://github.com/git-pkgs/purl) - Package URL construction, parsing, and registry URL mapping
 - [vers](https://github.com/git-pkgs/vers) - Version range parsing and comparison per the VERS spec
 - [platforms](https://github.com/git-pkgs/platforms) - Translating platform identifiers across package ecosystems
-- [spdx](https://github.com/git-pkgs/spdx) - SPDX license expression parsing, normalization, and validation
 - [artifacts](https://github.com/git-pkgs/artifacts) - Describing package files with package URLs, content digests, and byte counts
 
 **Manifests & resolution**
@@ -68,6 +68,12 @@ go install github.com/git-pkgs/git-pkgs@latest
 - [sarif](https://github.com/git-pkgs/sarif) - Reading, writing, and validating SARIF 2.1.0 logs
 - [cwe](https://github.com/git-pkgs/cwe) - Looking up MITRE CWE entries and categories
 
+**Licensing**
+
+- [licenses](https://github.com/git-pkgs/licenses) - Matching license text against ScanCode's rule corpus
+- [reuse](https://github.com/git-pkgs/reuse) - Extracting SPDX license and copyright data from REUSE-compliant projects
+- [spdx](https://github.com/git-pkgs/spdx) - SPDX license expression parsing, normalization, and validation
+
 **Files & content**
 
 - [archives](https://github.com/git-pkgs/archives) - Reading and browsing archive files in memory
@@ -75,7 +81,6 @@ go install github.com/git-pkgs/git-pkgs@latest
 - [gitignore](https://github.com/git-pkgs/gitignore) - Matching paths against gitignore rules
 - [magic](https://github.com/git-pkgs/magic) - Detecting file formats and MIME types from content
 - [markup](https://github.com/git-pkgs/markup) - Rendering markup files to HTML
-- [reuse](https://github.com/git-pkgs/reuse) - Extracting SPDX license and copyright data from REUSE-compliant projects
 
 **Source & repository**
 
