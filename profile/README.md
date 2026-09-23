@@ -92,3 +92,7 @@ go install github.com/git-pkgs/git-pkgs@latest
 **Storage**
 
 - [gcs](https://github.com/git-pkgs/gcs) - Minimal Google Cloud Storage client over the JSON API
+
+## License
+
+[MIT](../LICENSE).
